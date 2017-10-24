@@ -8,7 +8,7 @@ A simple application utilizing nodemailer to send emails. Very extensible applic
 3. Node.js
 4. Express.js
 5. Mailtrap.io
-  * Has direct integration with nodemailer to send emails using smtp.
+    * Has direct integration with nodemailer to send emails using smtp.
 
 ### FUTURE
 1. Maybe work on HTML email templates
