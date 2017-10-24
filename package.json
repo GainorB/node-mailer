@@ -1,0 +1,19 @@
+{
+  "name": "mailer",
+  "version": "1.0.0",
+  "description": "Simple application to send emails with Node",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Gainor Bostwick",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "nodemailer": "^4.3.0"
+  }
+}
